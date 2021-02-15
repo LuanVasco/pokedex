@@ -29,6 +29,8 @@ MenuWrapper.CentralSide = styled.div`
   padding: 12px;
   a {
     text-decoration: none;
+    color: #000;
+    margin: 0 12px;
   }
 `;
 
